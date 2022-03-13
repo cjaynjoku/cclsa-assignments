@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CypherCrescent Assignments</title>
+  </head>
+  <body>
+    <ol>
+      <h2>Assignment Solutions</h2>
+
+      <section>
+        <li><h3>An algorithm to add two numbers</h3></li>
+        <article>
+          <ul>
+            <li>Start</li>
+            <li>
+              Initialise a variable 'a', to be equal to the value of the first
+              number inputted
+            </li>
+            <li>
+              Initialise a second variable 'b', to be equal to the value of the
+              second number inputted
+            </li>
+            <li>initialise a variable, 'sum' to be equal to "a+b"</li>
+            <li>print sum</li>
+
+            <li>End</li>
+          </ul>
+        </article>
+        <hr />
+      </section>
+      <section>
+        <li><h3>An algorithm to find the factorial of a number</h3></li>
+        <article>
+          <ul>
+            <li>Start</li>
+            <li>
+              Define a function 'factorial' with a parameter 'number', that
+              accepts only integers
+            </li>
+            <li>Initialise a variable 'base' = 1</li>
+            <li>Initiate a while loop</li>
+            <ul>
+              <li>while number > 1</li>
+
+              <ul>
+                <li>base = base * number</li>
+                <li>subtract 1 from number</li>
+              </ul>
+              <li>End while loop</li>
+            </ul>
+            <li>Return base which is the factorial</li>
+            <li>End</li>
+          </ul>
+        </article>
+        <hr />
+      </section>
+      <section>
+        <li><h3>An algorithm to find the first n Fibonacci numbers</h3></li>
+        <article>
+          <ul>
+            <li>Start</li>
+            <li>
+              Define a function 'fibonacci' that takes an integer as a parameter
+              and returns the result of ((1+sqrt(5))<sup>n</sup> -
+              (1-sqrt(5))<sup>n</sup>)/2<sup>n</sup>*sqrt(5)
+            </li>
+            <li>Initiate a loop</li>
+            <ul>
+              <li>initialise the value 'index' = 1</li>
+              <li>for values of index < = n</li>
+
+              <ul>
+                <li>print fibonacci(index)</li>
+                <li>add 1 to index</li>
+              </ul>
+              <li>End for loop</li>
+            </ul>
+            <li>End</li>
+          </ul>
+        </article>
+        <hr />
+      </section>
+
+      <section>
+        <li>
+          <h3>An algorithm to sort a given set of numbers (Bubble sort)</h3>
+        </li>
+        <article>
+          <ul>
+            <li>Start</li>
+            <li>
+              Accept input that is an array of numbers to be sorted and store it
+              in a variable arr (the numbers must be grouped for the computer to
+              properly process them)
+            </li>
+            <li>Initiate a loop</li>
+            <ul>
+              <li>initialise the variable 'i' = 0</li>
+              <li>for values of i < n</li>
+
+              <ul>
+                <li>Initiate a loop</li>
+                <ul>
+                  <li>initialise the variable 'j' = 0</li>
+                  <li>for values of j < n-i-1</li>
+                  <ul>
+                    <li>Initiate a conditional statement</li>
+                    <ul>
+                      <li>if arr[j] > arr[j+1]</li>
+                    </ul>
+                    <ul>
+                      <li>initialise a variable 'temp' = arr[j]</li>
+                      <li>arr[j] = arr[j+1]</li>
+                      <li>arr[j+1] = temp</li>
+                    </ul>
+                    <li>End if statement</li>
+                  </ul>
+                  <li>End for Loop</li>
+                </ul>
+                <li>End for loop</li>
+              </ul>
+              <li>Print out the array</li>
+            </ul>
+            <li>End</li>
+          </ul>
+        </article>
+        <hr />
+      </section>
+
+      <section>
+        <li>
+          <h3>
+            An algorithm to convert a whole number from any other base to
+            decimal
+          </h3>
+        </li>
+        <article>
+          <ul>
+            <li>start</li>
+            <li>Accept a whole number in any base as input from the user</li>
+            <li>
+              Initialise a variable 'n' that is equal to the number of digits in
+              the number
+            </li>
+            <li>
+              Initialise a variable 'b' that is equal to the base of the number
+            </li>
+            <li>Initiate a for loop</li>
+            <ul>
+              <li>initialise the value 'sum' = 0</li>
+              <li>for each digit in the number, working from the left</li>
+
+              <ul>
+                <li>subtract 1 from n</li>
+                <li>
+                  declare a variable 'product' = the digit multiplied by b<sup
+                    >n</sup
+                  >
+                </li>
+                <li>sum = sum + digit</li>
+              </ul>
+              <li>End for loop</li>
+              <li>Print Sum which is the value of the number in decimal</li>
+            </ul>
+            <li>End</li>
+          </ul>
+        </article>
+        <hr />
+      </section>
+    </ol>
+  </body>
+</html>

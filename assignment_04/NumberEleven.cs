@@ -5,9 +5,9 @@ internal class NumberEleven
         static void Main(string[] args)
         {
  	 int[] anArray = new int[7] { 4, 3, 1, 4, 2, 5, 8 };
-	 NumberEleven();
+	 SubSeqWithSumS();
 	}
-	 private static void NumberEleven(int[] arr)
+	 private static void SubSeqWithSumS(int[] arr)
         {
             int sum = Int32.MinValue;
             int currentSum = 0;

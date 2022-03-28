@@ -4,9 +4,9 @@ internal class NumberNine
     {
         static void Main(string[] args)
         {
-	 NumberNine();
+	 SubSeqWithMaxSum();
 	}
-	private static void NumberNine()
+	private static void SubSeqWithMaxSum()
         {
             int[] anArray = new int[7] { 4, 3, 1, 4, 2, 5, 8 };
 

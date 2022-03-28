@@ -4,9 +4,9 @@ internal class NumberTwelve
     {
         static void Main(string[] args)
         {
-	 NumberTwelve();
+	 SquareMatrix();
 	}
-	private static void NumberTwelve()
+	private static void SquareMatrix()
         {
             Console.WriteLine("Enter the number of rows and columns in your square matrix");
             int M = Int32.Parse(Console.ReadLine());

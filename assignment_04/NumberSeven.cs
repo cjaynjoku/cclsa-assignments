@@ -4,10 +4,10 @@ internal class NumberSeven
     {
         static void Main(string[] args)
         {
-	 NumberSeven();
+	 SubSeqOfK();
 	}
 
-	 private static void NumberSeven()
+	 private static void SubSeqOfK()
         {
             Console.WriteLine("Enter the size of your array (N)");
             int N = Int32.Parse(Console.ReadLine());

@@ -5,10 +5,10 @@ internal class NumberTen
         static void Main(string[] args)
         {
  	 int[] arr = new int[] { 4, 1, 1, 4, 2, 3, 4, 4, 1, 2, 4, 9, 3 };
-	 NumberTen();
+	 MostFrequentNumber();
 	}
 
-	private static void NumberTen(int[] array)
+	private static void MostFrequentNumber(int[] array)
         {
             int n = array.Length;
             for (int i = 0; i < n - 1; i++)

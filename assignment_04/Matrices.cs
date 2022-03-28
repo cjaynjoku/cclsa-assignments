@@ -1,11 +1,11 @@
 using System;
 
 internal class Matrices
-    {
+{
         static void Main(string[] args)
         {
 	 myArrays();
-	}
+	    }
 
 	 private static void myArrays()
         {

@@ -1,0 +1,16 @@
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment09\QuestionThree\bin\Debug\net5.0\QuestionThree.exe
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment09\QuestionThree\bin\Debug\net5.0\QuestionThree.deps.json
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment09\QuestionThree\bin\Debug\net5.0\QuestionThree.runtimeconfig.json
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment09\QuestionThree\bin\Debug\net5.0\QuestionThree.runtimeconfig.dev.json
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment09\QuestionThree\bin\Debug\net5.0\QuestionThree.dll
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment09\QuestionThree\bin\Debug\net5.0\QuestionThree.pdb
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment09\QuestionThree\obj\Debug\net5.0\QuestionThree.csproj.AssemblyReference.cache
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment09\QuestionThree\obj\Debug\net5.0\QuestionThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment09\QuestionThree\obj\Debug\net5.0\QuestionThree.AssemblyInfoInputs.cache
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment09\QuestionThree\obj\Debug\net5.0\QuestionThree.AssemblyInfo.cs
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment09\QuestionThree\obj\Debug\net5.0\QuestionThree.csproj.CoreCompileInputs.cache
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment09\QuestionThree\obj\Debug\net5.0\QuestionThree.dll
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment09\QuestionThree\obj\Debug\net5.0\refint\QuestionThree.dll
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment09\QuestionThree\obj\Debug\net5.0\QuestionThree.pdb
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment09\QuestionThree\obj\Debug\net5.0\QuestionThree.genruntimeconfig.cache
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment09\QuestionThree\obj\Debug\net5.0\ref\QuestionThree.dll

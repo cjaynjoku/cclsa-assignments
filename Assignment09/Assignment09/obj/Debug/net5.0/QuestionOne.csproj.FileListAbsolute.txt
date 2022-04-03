@@ -1,0 +1,16 @@
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment09\Assignment09\bin\Debug\net5.0\QuestionOne.exe
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment09\Assignment09\bin\Debug\net5.0\QuestionOne.deps.json
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment09\Assignment09\bin\Debug\net5.0\QuestionOne.runtimeconfig.json
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment09\Assignment09\bin\Debug\net5.0\QuestionOne.runtimeconfig.dev.json
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment09\Assignment09\bin\Debug\net5.0\QuestionOne.dll
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment09\Assignment09\bin\Debug\net5.0\QuestionOne.pdb
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment09\Assignment09\obj\Debug\net5.0\QuestionOne.csproj.AssemblyReference.cache
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment09\Assignment09\obj\Debug\net5.0\QuestionOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment09\Assignment09\obj\Debug\net5.0\QuestionOne.AssemblyInfoInputs.cache
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment09\Assignment09\obj\Debug\net5.0\QuestionOne.AssemblyInfo.cs
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment09\Assignment09\obj\Debug\net5.0\QuestionOne.csproj.CoreCompileInputs.cache
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment09\Assignment09\obj\Debug\net5.0\QuestionOne.dll
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment09\Assignment09\obj\Debug\net5.0\refint\QuestionOne.dll
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment09\Assignment09\obj\Debug\net5.0\QuestionOne.pdb
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment09\Assignment09\obj\Debug\net5.0\QuestionOne.genruntimeconfig.cache
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment09\Assignment09\obj\Debug\net5.0\ref\QuestionOne.dll

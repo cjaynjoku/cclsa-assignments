@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V0u+NfKcnwLy25D8ZDvsKcokR3X52sCeJRsGGrYhB8Ke+Vx+1QCniywJNZaNR4Fnnx1tP6pchIuSAYyQL0o30Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JANUARIUS NJOKU\\cclsaassignment\\cclsa-assignments\\Assignment09\\QuestionThree\\QuestionThree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JANUARIUS NJOKU\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

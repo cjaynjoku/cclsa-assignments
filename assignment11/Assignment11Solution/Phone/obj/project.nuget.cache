@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4D7/uj7TfosPAJvDJ+Lokzj3uy2BgolPyIDe09YHtTHf7KUnkxq9VgQu5A1DjXjc7kfK9jEXgN4p1kkyt/fqdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JANUARIUS NJOKU\\source\\repos\\Assignment11Solution\\Phone\\Phone.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JANUARIUS NJOKU\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

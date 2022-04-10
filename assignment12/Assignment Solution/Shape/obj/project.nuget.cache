@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uv83xHQ52phjOKjLRRzFi8ZVExS97JnUNSg5nOjCZqKlF9Rsgpa3wiWVp4R3NvUn9a9Bj73bgzChiQwPEia6iw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JANUARIUS NJOKU\\source\\repos\\Assignment Solution\\Shape\\Shape.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JANUARIUS NJOKU\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

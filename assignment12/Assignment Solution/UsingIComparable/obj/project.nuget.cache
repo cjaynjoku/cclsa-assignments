@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ejCbg5AUy4ei/kQZxqV/dIQ214WL48wyQKhtpJ6i5kXaryb1UcXwPBuSw5bkUGlg6XDVJDaUd63dRIISW9oZww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JANUARIUS NJOKU\\source\\repos\\Assignment Solution\\UsingIComparable\\UsingIComparable.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JANUARIUS NJOKU\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

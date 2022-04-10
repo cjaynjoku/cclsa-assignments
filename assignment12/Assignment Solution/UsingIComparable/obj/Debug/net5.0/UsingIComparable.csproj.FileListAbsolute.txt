@@ -1,0 +1,16 @@
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment Solution\UsingIComparable\bin\Debug\net5.0\UsingIComparable.exe
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment Solution\UsingIComparable\bin\Debug\net5.0\UsingIComparable.deps.json
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment Solution\UsingIComparable\bin\Debug\net5.0\UsingIComparable.runtimeconfig.json
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment Solution\UsingIComparable\bin\Debug\net5.0\UsingIComparable.runtimeconfig.dev.json
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment Solution\UsingIComparable\bin\Debug\net5.0\UsingIComparable.dll
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment Solution\UsingIComparable\bin\Debug\net5.0\UsingIComparable.pdb
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment Solution\UsingIComparable\obj\Debug\net5.0\UsingIComparable.csproj.AssemblyReference.cache
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment Solution\UsingIComparable\obj\Debug\net5.0\UsingIComparable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment Solution\UsingIComparable\obj\Debug\net5.0\UsingIComparable.AssemblyInfoInputs.cache
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment Solution\UsingIComparable\obj\Debug\net5.0\UsingIComparable.AssemblyInfo.cs
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment Solution\UsingIComparable\obj\Debug\net5.0\UsingIComparable.csproj.CoreCompileInputs.cache
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment Solution\UsingIComparable\obj\Debug\net5.0\UsingIComparable.dll
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment Solution\UsingIComparable\obj\Debug\net5.0\refint\UsingIComparable.dll
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment Solution\UsingIComparable\obj\Debug\net5.0\UsingIComparable.pdb
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment Solution\UsingIComparable\obj\Debug\net5.0\UsingIComparable.genruntimeconfig.cache
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment Solution\UsingIComparable\obj\Debug\net5.0\ref\UsingIComparable.dll

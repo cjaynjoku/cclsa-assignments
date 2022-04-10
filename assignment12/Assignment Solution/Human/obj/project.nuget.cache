@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LZ7v87huTAlZP6zkJ0tm+DYU6jb0vh1N2CdwlRMqMXRemNXPR1bUscXeSl47Q9rBmN89lkrw19BWA29RIi5pUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JANUARIUS NJOKU\\source\\repos\\Assignment Solution\\Human\\Human.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JANUARIUS NJOKU\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

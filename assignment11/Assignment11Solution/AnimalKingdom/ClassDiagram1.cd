@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AnimalKingdom.Amphibians" Collapsed="true">
+    <Position X="34.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Amphibians.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalKingdom.Animal" Collapsed="true">
+    <Position X="36.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Animal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalKingdom.Annelida" Collapsed="true">
+    <Position X="23.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Annelida.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalKingdom.Arthropoda" Collapsed="true">
+    <Position X="27.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Arthropoda.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalKingdom.Birds" Collapsed="true">
+    <Position X="50.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Birds.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalKingdom.BonyFish" Collapsed="true">
+    <Position X="36.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BonyFish.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalKingdom.CartilagenousFish" Collapsed="true">
+    <Position X="41.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CartilagenousFish.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalKingdom.Chelicerates" Collapsed="true">
+    <Position X="27.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Chelicerates.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalKingdom.Chordata" Collapsed="true">
+    <Position X="41.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Chordata.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalKingdom.Cnidaria" Collapsed="true">
+    <Position X="54.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cnidaria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalKingdom.Crustaceans" Collapsed="true">
+    <Position X="25.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Crustaceans.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalKingdom.Echinodermata" Collapsed="true">
+    <Position X="18.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Echinodermata.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalKingdom.HagFish" Collapsed="true">
+    <Position X="45.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HagFish.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalKingdom.Invertebrate" Collapsed="true">
+    <Position X="32.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Invertebrate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalKingdom.Labiatae" Collapsed="true">
+    <Position X="30" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Labiatae.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalKingdom.Lampreys" Collapsed="true">
+    <Position X="39" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Lampreys.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalKingdom.Mammals" Collapsed="true">
+    <Position X="43.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mammals.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalKingdom.Man" Collapsed="true">
+    <Position X="43.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Man.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalKingdom.Mollusca" Collapsed="true">
+    <Position X="52.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mollusca.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalKingdom.Nematoda" Collapsed="true">
+    <Position X="57" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Nematoda.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalKingdom.Platyhelminthes" Collapsed="true">
+    <Position X="16.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Platyhelminthes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalKingdom.Ponifera" Collapsed="true">
+    <Position X="21" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ponifera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalKingdom.Reptiles" Collapsed="true">
+    <Position X="48" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Reptiles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalKingdom.Vertebrate" Collapsed="true">
+    <Position X="42.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Vertebrate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

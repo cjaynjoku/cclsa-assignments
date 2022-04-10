@@ -1,0 +1,16 @@
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment Solution\WorkersSort\bin\Debug\net5.0\WorkersSort.exe
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment Solution\WorkersSort\bin\Debug\net5.0\WorkersSort.deps.json
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment Solution\WorkersSort\bin\Debug\net5.0\WorkersSort.runtimeconfig.json
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment Solution\WorkersSort\bin\Debug\net5.0\WorkersSort.runtimeconfig.dev.json
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment Solution\WorkersSort\bin\Debug\net5.0\WorkersSort.dll
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment Solution\WorkersSort\bin\Debug\net5.0\WorkersSort.pdb
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment Solution\WorkersSort\obj\Debug\net5.0\WorkersSort.csproj.AssemblyReference.cache
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment Solution\WorkersSort\obj\Debug\net5.0\WorkersSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment Solution\WorkersSort\obj\Debug\net5.0\WorkersSort.AssemblyInfoInputs.cache
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment Solution\WorkersSort\obj\Debug\net5.0\WorkersSort.AssemblyInfo.cs
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment Solution\WorkersSort\obj\Debug\net5.0\WorkersSort.csproj.CoreCompileInputs.cache
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment Solution\WorkersSort\obj\Debug\net5.0\WorkersSort.dll
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment Solution\WorkersSort\obj\Debug\net5.0\refint\WorkersSort.dll
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment Solution\WorkersSort\obj\Debug\net5.0\WorkersSort.pdb
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment Solution\WorkersSort\obj\Debug\net5.0\WorkersSort.genruntimeconfig.cache
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment Solution\WorkersSort\obj\Debug\net5.0\ref\WorkersSort.dll

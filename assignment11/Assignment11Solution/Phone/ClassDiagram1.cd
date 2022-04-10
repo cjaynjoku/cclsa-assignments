@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Phone.CellPhone" Collapsed="true">
+    <Position X="1.75" Y="6.5" Width="1.5" />
+    <InheritanceLine Type="Phone.Phone" ManuallyRouted="true">
+      <Path>
+        <Point X="6.25" Y="1.812" />
+        <Point X="6.25" Y="3.764" />
+        <Point X="2.5" Y="3.764" />
+        <Point X="2.5" Y="6.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CellPhone.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Phone.MobilePhone" Collapsed="true">
+    <Position X="8.75" Y="6.5" Width="1.5" />
+    <InheritanceLine Type="Phone.Phone" ManuallyRouted="true">
+      <Path>
+        <Point X="6.25" Y="1.812" />
+        <Point X="6.25" Y="3.784" />
+        <Point X="9.5" Y="3.784" />
+        <Point X="9.5" Y="6.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>EAAAARAAAAAAAAAAAAACAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MobilePhone.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Phone.Phone" Collapsed="true">
+    <Position X="5.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Phone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Phone.Program" Collapsed="true">
+    <Position X="10.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Phone.SmartPhone" Collapsed="true">
+    <Position X="5.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACARAAAAAAAAABACACAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SmartPhone.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Phone.ICall" Collapsed="true">
+    <Position X="10.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ICall.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Phone.ICamera" Collapsed="true">
+    <Position X="12" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ICamera.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Phone.IEmail" Collapsed="true">
+    <Position X="13.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IEmail.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Phone.IGames" Collapsed="true">
+    <Position X="10.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IGames.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Phone.IMessaging" Collapsed="true">
+    <Position X="12" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IMessaging.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Phone.IMMS" Collapsed="true">
+    <Position X="13.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IMMS.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Phone.ITextMessage" Collapsed="true">
+    <Position X="10.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ITextMessage.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Phone.IVideo" Collapsed="true">
+    <Position X="12" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IVideo.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

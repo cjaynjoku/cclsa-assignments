@@ -1,0 +1,16 @@
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment Solution\Shape\bin\Debug\net5.0\Shape.exe
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment Solution\Shape\bin\Debug\net5.0\Shape.deps.json
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment Solution\Shape\bin\Debug\net5.0\Shape.runtimeconfig.json
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment Solution\Shape\bin\Debug\net5.0\Shape.runtimeconfig.dev.json
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment Solution\Shape\bin\Debug\net5.0\Shape.dll
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment Solution\Shape\bin\Debug\net5.0\Shape.pdb
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment Solution\Shape\obj\Debug\net5.0\Shape.csproj.AssemblyReference.cache
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment Solution\Shape\obj\Debug\net5.0\Shape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment Solution\Shape\obj\Debug\net5.0\Shape.AssemblyInfoInputs.cache
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment Solution\Shape\obj\Debug\net5.0\Shape.AssemblyInfo.cs
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment Solution\Shape\obj\Debug\net5.0\Shape.csproj.CoreCompileInputs.cache
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment Solution\Shape\obj\Debug\net5.0\Shape.dll
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment Solution\Shape\obj\Debug\net5.0\refint\Shape.dll
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment Solution\Shape\obj\Debug\net5.0\Shape.pdb
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment Solution\Shape\obj\Debug\net5.0\Shape.genruntimeconfig.cache
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment Solution\Shape\obj\Debug\net5.0\ref\Shape.dll

@@ -1,0 +1,16 @@
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment11Solution\Phone\obj\Debug\net5.0\Phone.csproj.AssemblyReference.cache
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment11Solution\Phone\obj\Debug\net5.0\Phone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment11Solution\Phone\obj\Debug\net5.0\Phone.AssemblyInfoInputs.cache
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment11Solution\Phone\obj\Debug\net5.0\Phone.AssemblyInfo.cs
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment11Solution\Phone\obj\Debug\net5.0\Phone.csproj.CoreCompileInputs.cache
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment11Solution\Phone\bin\Debug\net5.0\Phone.exe
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment11Solution\Phone\bin\Debug\net5.0\Phone.deps.json
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment11Solution\Phone\bin\Debug\net5.0\Phone.runtimeconfig.json
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment11Solution\Phone\bin\Debug\net5.0\Phone.runtimeconfig.dev.json
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment11Solution\Phone\bin\Debug\net5.0\Phone.dll
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment11Solution\Phone\bin\Debug\net5.0\Phone.pdb
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment11Solution\Phone\obj\Debug\net5.0\Phone.dll
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment11Solution\Phone\obj\Debug\net5.0\refint\Phone.dll
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment11Solution\Phone\obj\Debug\net5.0\Phone.pdb
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment11Solution\Phone\obj\Debug\net5.0\Phone.genruntimeconfig.cache
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment11Solution\Phone\obj\Debug\net5.0\ref\Phone.dll

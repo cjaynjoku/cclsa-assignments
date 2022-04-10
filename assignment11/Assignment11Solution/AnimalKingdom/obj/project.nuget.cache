@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V3+tWll+Xqy6fVJ9DKclluZX7Uf9MGZe7OU+0VP2MpXWTen/cgyN0IWj59N46BKDWy2thHlrWnpRiUvtFSYuBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JANUARIUS NJOKU\\source\\repos\\Assignment11Solution\\AnimalKingdom\\AnimalKingdom.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JANUARIUS NJOKU\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

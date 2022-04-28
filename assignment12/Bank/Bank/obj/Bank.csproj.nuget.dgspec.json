@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JANUARIUS NJOKU\\source\\repos\\Bank\\Bank\\Bank.csproj": {}
+    "C:\\Users\\JANUARIUS NJOKU\\cclsaassignment\\cclsa-assignments\\assignment12\\Bank\\Bank\\Bank.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JANUARIUS NJOKU\\source\\repos\\Bank\\Bank\\Bank.csproj": {
+    "C:\\Users\\JANUARIUS NJOKU\\cclsaassignment\\cclsa-assignments\\assignment12\\Bank\\Bank\\Bank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JANUARIUS NJOKU\\source\\repos\\Bank\\Bank\\Bank.csproj",
+        "projectUniqueName": "C:\\Users\\JANUARIUS NJOKU\\cclsaassignment\\cclsa-assignments\\assignment12\\Bank\\Bank\\Bank.csproj",
         "projectName": "Bank",
-        "projectPath": "C:\\Users\\JANUARIUS NJOKU\\source\\repos\\Bank\\Bank\\Bank.csproj",
+        "projectPath": "C:\\Users\\JANUARIUS NJOKU\\cclsaassignment\\cclsa-assignments\\assignment12\\Bank\\Bank\\Bank.csproj",
         "packagesPath": "C:\\Users\\JANUARIUS NJOKU\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JANUARIUS NJOKU\\source\\repos\\Bank\\Bank\\obj\\",
+        "outputPath": "C:\\Users\\JANUARIUS NJOKU\\cclsaassignment\\cclsa-assignments\\assignment12\\Bank\\Bank\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JANUARIUS NJOKU\\AppData\\Roaming\\NuGet\\NuGet.Config",

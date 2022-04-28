@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JANUARIUS NJOKU\\source\\repos\\Assignment Solution\\UsingIComparable\\UsingIComparable.csproj",
+      "projectUniqueName": "C:\\Users\\JANUARIUS NJOKU\\cclsaassignment\\cclsa-assignments\\assignment12\\Assignment Solution\\UsingIComparable\\UsingIComparable.csproj",
       "projectName": "UsingIComparable",
-      "projectPath": "C:\\Users\\JANUARIUS NJOKU\\source\\repos\\Assignment Solution\\UsingIComparable\\UsingIComparable.csproj",
+      "projectPath": "C:\\Users\\JANUARIUS NJOKU\\cclsaassignment\\cclsa-assignments\\assignment12\\Assignment Solution\\UsingIComparable\\UsingIComparable.csproj",
       "packagesPath": "C:\\Users\\JANUARIUS NJOKU\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JANUARIUS NJOKU\\source\\repos\\Assignment Solution\\UsingIComparable\\obj\\",
+      "outputPath": "C:\\Users\\JANUARIUS NJOKU\\cclsaassignment\\cclsa-assignments\\assignment12\\Assignment Solution\\UsingIComparable\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\JANUARIUS NJOKU\\AppData\\Roaming\\NuGet\\NuGet.Config",

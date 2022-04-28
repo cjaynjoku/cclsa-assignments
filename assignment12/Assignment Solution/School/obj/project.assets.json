@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JANUARIUS NJOKU\\source\\repos\\Assignment Solution\\School\\School.csproj",
+      "projectUniqueName": "C:\\Users\\JANUARIUS NJOKU\\cclsaassignment\\cclsa-assignments\\assignment12\\Assignment Solution\\School\\School.csproj",
       "projectName": "School",
-      "projectPath": "C:\\Users\\JANUARIUS NJOKU\\source\\repos\\Assignment Solution\\School\\School.csproj",
+      "projectPath": "C:\\Users\\JANUARIUS NJOKU\\cclsaassignment\\cclsa-assignments\\assignment12\\Assignment Solution\\School\\School.csproj",
       "packagesPath": "C:\\Users\\JANUARIUS NJOKU\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JANUARIUS NJOKU\\source\\repos\\Assignment Solution\\School\\obj\\",
+      "outputPath": "C:\\Users\\JANUARIUS NJOKU\\cclsaassignment\\cclsa-assignments\\assignment12\\Assignment Solution\\School\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\JANUARIUS NJOKU\\AppData\\Roaming\\NuGet\\NuGet.Config",

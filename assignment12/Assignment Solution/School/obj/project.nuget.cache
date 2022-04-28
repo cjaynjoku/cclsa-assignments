@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+ZBqD+Xe1tBCdCUzND18dnezK/w89A5L13kwEbCUKv/LyDc563uKmgAoJUymMXumWx3sTbh+0uhZEoEeSDps7g==",
+  "dgSpecHash": "D6Ry3d855qbCPfqkGrDGAGWyW95DfD4BYCkUbdN0u6LbPAIZjbreS4eooTK94n4vBr0c3R2MvdgCUFFlEQoHPA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JANUARIUS NJOKU\\source\\repos\\Assignment Solution\\School\\School.csproj",
+  "projectFilePath": "C:\\Users\\JANUARIUS NJOKU\\cclsaassignment\\cclsa-assignments\\assignment12\\Assignment Solution\\School\\School.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JANUARIUS NJOKU\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
   ],

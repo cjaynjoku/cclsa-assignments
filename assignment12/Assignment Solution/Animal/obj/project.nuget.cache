@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J4bgyEduMEUU82IEukhnFjTaWiRdx/DJlTz2nNKg+87uFygNfeO5hB1vAccx/emzVYR3zZx5gaEg9bTxLaNxYw==",
+  "dgSpecHash": "xsuxoHtm/nKKIGmuTwm5SvrAG++XqoGiuQd3GPTQ4Gce1JM/UR0YL4qjZUlUGowPQVtm9hbzVygP0lAkVmnZzQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JANUARIUS NJOKU\\source\\repos\\Assignment Solution\\Animal\\Animal.csproj",
+  "projectFilePath": "C:\\Users\\JANUARIUS NJOKU\\cclsaassignment\\cclsa-assignments\\assignment12\\Assignment Solution\\Animal\\Animal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JANUARIUS NJOKU\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
   ],

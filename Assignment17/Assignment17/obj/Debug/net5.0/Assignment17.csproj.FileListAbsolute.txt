@@ -1,0 +1,16 @@
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment17\Assignment17\bin\Debug\net5.0\Assignment17.exe
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment17\Assignment17\bin\Debug\net5.0\Assignment17.deps.json
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment17\Assignment17\bin\Debug\net5.0\Assignment17.runtimeconfig.json
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment17\Assignment17\bin\Debug\net5.0\Assignment17.runtimeconfig.dev.json
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment17\Assignment17\bin\Debug\net5.0\Assignment17.dll
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment17\Assignment17\bin\Debug\net5.0\Assignment17.pdb
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment17\Assignment17\obj\Debug\net5.0\Assignment17.csproj.AssemblyReference.cache
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment17\Assignment17\obj\Debug\net5.0\Assignment17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment17\Assignment17\obj\Debug\net5.0\Assignment17.AssemblyInfoInputs.cache
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment17\Assignment17\obj\Debug\net5.0\Assignment17.AssemblyInfo.cs
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment17\Assignment17\obj\Debug\net5.0\Assignment17.csproj.CoreCompileInputs.cache
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment17\Assignment17\obj\Debug\net5.0\Assignment17.dll
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment17\Assignment17\obj\Debug\net5.0\refint\Assignment17.dll
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment17\Assignment17\obj\Debug\net5.0\Assignment17.pdb
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment17\Assignment17\obj\Debug\net5.0\Assignment17.genruntimeconfig.cache
+C:\Users\JANUARIUS NJOKU\source\repos\Assignment17\Assignment17\obj\Debug\net5.0\ref\Assignment17.dll
